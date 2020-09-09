@@ -32,7 +32,7 @@
     transition: background-color 0.1s ease-in-out;
 }
 
-.nav-link:hover {
+.active {
     background-color: #ffc107;
 }
 
@@ -40,14 +40,14 @@
     font-size: 18px;
 }
 
-.hello-text h5 {
+.jumbotron h5 {
     font-size: 18px;
     font-weight: 600;
     color: #152C5B;
-    margin-top: 20px;
+    margin-top: -10px;
 }
 
-.hello-text h6 {
+.jumbotron h6 {
     font-size: 16px;
     font-weight: 500;
     color: #ffff;
@@ -64,11 +64,8 @@
     margin-bottom: 20px;
 }
 
-.card {
-    height: 116px;
-}
 
 .jumbotron {
-    border-radius: 0px 0px 30px 30px;
+    border-radius: 0px 0px 35px 35px;
     background-color: #ffc107;
 }
