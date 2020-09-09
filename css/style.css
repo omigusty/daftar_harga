@@ -50,7 +50,7 @@
 .hello-text h6 {
     font-size: 16px;
     font-weight: 500;
-    color: #c4c4c4;
+    color: #ffff;
 }
 
 .menu {
@@ -66,4 +66,9 @@
 
 .card {
     height: 116px;
+}
+
+.jumbotron {
+    border-radius: 0px 0px 30px 30px;
+    background-color: #ffc107;
 }
